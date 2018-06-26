@@ -8,15 +8,12 @@ warn = '\33[41m'
 end = '\033[0m'
 bold = '\033[1m'
 underline = '\033[4m'
-print(gold + """
-O)) O))                                                 
-O)    O))         O)         O))                        
-O)     O))O) O)))      O))   O))        O))    O))   O))
-O))) O)    O))   O)) O))  O))O) O)    O)   O))  O)) O)) 
-O)     O)) O))   O))O))   O))O))  O))O))))) O))   O)))  
-O)      O) O))   O)) O))  O))O)   O))O)            O))  
-O)))) O)) O)))   O))     O)) O))  O))  O))))      O))   
-                      O))                       O))     """ + end)
+print(gold + """    ____       _       __    __            
+   / __ )_____(_)___ _/ /_  / /____  __  __
+  / __  / ___/ / __ `/ __ \/ __/ _ \/ / / /
+ / /_/ / /  / / /_/ / / / / /_/  __/ /_/ / 
+/_____/_/  /_/\__, /_/ /_/\__/\___/\__, /  
+             /____/               /____/      """ + end)
 version = open("core/version.txt")
 vs = version.readline()
 pversion = sys.version_info[0]
