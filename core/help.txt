@@ -1,0 +1,15 @@
+╔═══════════════╦════════════════════════════════════════════════════════════╗
+║    Command    ║                        Description                         ║
+╠═══════════════╬════════════════════════════════════════════════════════════╣
+║ help          ║ Shows help                                                 ║
+║ cd            ║ Changes current directory                                  ║
+║ ls            ║ List all files in directory                                ║
+║ mass-mailer   ║ Send mass emails                                           ║
+║ hash-wordlist ║ Hash all passwords in wordlist (md5 algorithm)             ║
+║ proxy-checker ║ Checks and removes not working proxy from HTTP proxy list  ║
+║ pscan         ║ Port Scanner                                               ║
+║ encrypt       ║ Encrypts all files in current directory and subdirectories ║
+║ decrypt       ║ Decrypts all files in current directory and subdirectories ║
+║ dos           ║ DoS Attack                                                 ║
+║ exit          ║ Quits program                                              ║
+╚═══════════════╩════════════════════════════════════════════════════════════╝

@@ -1,0 +1,8 @@
+red = '\33[31m'
+blue = '\33[34m'
+green = '\33[92m'
+gold = '\33[93m'
+warn = '\33[41m'
+end = '\033[0m'
+bold = '\033[1m'
+underline = '\033[4m'
